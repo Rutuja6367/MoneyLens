@@ -1,0 +1,17 @@
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\EmailServiceImpl.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\NotificationSettings.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\NotificationService.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\client\AccountServiceClient.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\NotificationType.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\EmailService.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\RecipientServiceImpl.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\controller\RecipientController.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\NotificationServiceApplication.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\repository\converter\FrequencyWriterConverter.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\config\ResourceServerConfig.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\Recipient.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\RecipientService.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\domain\Frequency.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\service\NotificationServiceImpl.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\repository\converter\FrequencyReaderConverter.java
+C:\NORTHEASTERN_MASTERS\FALL_24\PIGGY_METRICS\piggymetrics\notification-service\src\main\java\com\piggymetrics\notification\repository\RecipientRepository.java
