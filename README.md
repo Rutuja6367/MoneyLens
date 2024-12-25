@@ -2,7 +2,7 @@
 
 # Money Lens
 
-**Money Lens** is a simple financial advisor app built to demonstrate the [Microservice Architecture Pattern](http://martinfowler.com/microservices/) using Spring Boot, Spring Cloud, and Docker. The project is intended as a tutorial, but you are welcome to fork it and turn it into something else!
+**Money Lens** is a simple financial advisor app built to demonstrate the [Microservice Architecture Pattern] using Spring Boot, Spring Cloud, and Docker.
 
 <br>
 
